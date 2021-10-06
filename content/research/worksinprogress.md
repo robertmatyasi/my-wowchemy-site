@@ -13,12 +13,12 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-"Expression", in *Cambridge Spinoza Lexicon*, eds. Karolina Hübner, Justin Steinberg.
+"Expression", in the *Cambridge Spinoza Lexicon*
 
-A paper on Cavendish's and metaphysical priority
+A paper on Cavendish and metaphysical priority
 
 Conway on composition and activity
 
 Spinoza on species and qualitative identity
 
-Spinoza on contingency and necessity.
+Spinoza on contingency and necessity

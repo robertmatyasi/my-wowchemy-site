@@ -18,10 +18,10 @@ I am a frequent contributor to the [Kiskáté](http://www.muut.hu/archivum/categ
 So far I wrote pieces on the following:
 
 - [Michael O. Hardimon: Rethinking Race](http://www.muut.hu/archivum/34422)
-- [Timothy Williamson: Modal Logic as Metaphysics](http://www.muut.hu/archivum/12867)
-- [Herman Cappelen: Philosophy without Intuitions](http://www.muut.hu/archivum/14323) (with Tibor Bárány)
-- [Daniel Z. Korman: Objects: Nothing out of the Ordinary](http://www.muut.hu/archivum/19956)
 - [Diana Raffman: Unruly Words](http://www.muut.hu/archivum/25250)
+- [Daniel Z. Korman: Objects: Nothing out of the Ordinary](http://www.muut.hu/archivum/19956)
+- [Herman Cappelen: Philosophy without Intuitions](http://www.muut.hu/archivum/14323) (with Tibor Bárány)
+- [Timothy Williamson: Modal Logic as Metaphysics](http://www.muut.hu/archivum/12867)
 
 Our essays (until 2017) are also published as a collection:
 

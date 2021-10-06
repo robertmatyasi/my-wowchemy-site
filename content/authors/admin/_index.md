@@ -61,4 +61,4 @@ I received my PhD from the University of Toronto in 2021.
 
 I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 
-*You can find my email and CV under my photo, and read about my research and teaching through the menu.*
+*You can find my email and CV under my photo, and read about my research and teaching through the menu on the top of this page.*
