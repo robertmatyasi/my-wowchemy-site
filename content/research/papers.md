@@ -15,4 +15,4 @@ design:
 
 [Spinoza on Composition, Monism and Beings of Reason](http://doi.org/10.32881/jomp.74). Journal of Modern Philosophy 2(1). 2020.
 
-(with Karolina Hübner) “Spinoza on Expression and the Grounds of Intelligibility”, forthcoming in the Philosophical Quarterly.
+(with Karolina Hübner) “Spinoza on Expression and Grounds of Intelligibility”, forthcoming in the Philosophical Quarterly.
